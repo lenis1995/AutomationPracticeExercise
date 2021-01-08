@@ -1,0 +1,13 @@
+com\projectTestsPackage\pageFactory\tests\RegisterUserTest.class
+com\projectTestsPackage\driverFactory\BrowserType.class
+com\projectTestsPackage\Advanced\LogsTest.class
+com\projectTestsPackage\pageFactory\pages\HomePage.class
+com\projectTestsPackage\POM\tests\RegisterUserTest.class
+com\projectTestsPackage\driverFactory\DriverFactory.class
+com\projectTestsPackage\Advanced\RobotApi.class
+com\projectTestsPackage\POM\pages\RegisterPage.class
+com\projectTestsPackage\driverFactory\AmazonTest.class
+com\projectTestsPackage\Advanced\CrossBrowserExample.class
+com\projectTestsPackage\POM\pages\HomePage.class
+com\projectTestsPackage\pageFactory\pages\RegisterPage.class
+com\projectTestsPackage\driverFactory\DriverFactory$1.class

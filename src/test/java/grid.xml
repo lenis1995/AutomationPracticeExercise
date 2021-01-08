@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Grid Suite" thread-count="2" parallel="tests">
+    <test name="Run chrome on win10">
+        <parameter name="browser" value="CHROME"></parameter>
+        <parameter name="nodeURL" value="http://192.168.168.63:5566/wd/hub"/>
+        <classes>
+            <class name="com.projectTestsPackage.grid.GridTest"/>
+        </classes>
+    </test>
+    <test name="Run edge on win10">
+        <parameter name="browser" value="EDGE"></parameter>
+        <parameter name="nodeURL" value="http://192.168.168.63:5568/wd/hub"/>
+        <classes>
+            <class name="com.projectTestsPackage.grid.GridTest"/>
+        </classes>
+    </test>
+</suite>

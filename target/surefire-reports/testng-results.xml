@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="71116" started-at="2020-03-28T20:01:08 COT" finished-at="2020-03-28T20:02:20 COT">
+    <groups>
+    </groups>
+    <test name="Multiple classes" duration-ms="71116" started-at="2020-03-28T20:01:08 COT" finished-at="2020-03-28T20:02:20 COT">
+      <class name="com.projectTestsPackage.Advanced.RobotApi">
+        <test-method status="PASS" signature="RobotAPITest()[pri:0, instance:com.projectTestsPackage.Advanced.RobotApi@31a5c39e]" name="RobotAPITest" duration-ms="71003" started-at="2020-03-28T20:01:09 COT" finished-at="2020-03-28T20:02:20 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RobotAPITest -->
+      </class> <!-- com.projectTestsPackage.Advanced.RobotApi -->
+    </test> <!-- Multiple classes -->
+  </suite> <!-- TestSuite -->
+</testng-results>
